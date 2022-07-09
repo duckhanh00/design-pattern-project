@@ -1,8 +1,4 @@
 
-# Python Code for factory method
-# it comes under the creational
-# Design Pattern
- 
 class FrenchLocalizer:
  
     """ it simply returns the french version """

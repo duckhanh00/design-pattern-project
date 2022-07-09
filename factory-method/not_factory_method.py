@@ -1,8 +1,3 @@
-
-# Python Code for Object
-# Oriented Concepts without
-# using Factory method
- 
 class FrenchLocalizer:
  
     """ it simply returns the french version """
