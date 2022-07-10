@@ -18,3 +18,7 @@ python3 factory-method/factory_method.py
 ```
 python3 builder/builder.py
 ```
+<b>Prototype Design Pattern</b>
+```
+python3 prototype/prototype.py
+```
