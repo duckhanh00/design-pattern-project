@@ -3,6 +3,11 @@
 python3 -m venv .venv
 source .venv/bin/activate
 ```
+# Series
+https://viblo.asia/p/design-patterns-la-gi-tai-sao-no-lai-la-tro-thu-dac-luc-cua-developers-tong-hop-23-mau-design-pattern-GrLZDBQV5k0
+https://auth.geeksforgeeks.org/user/SonuGeorge/articles
+https://refactoring.guru/design-patterns/catalog
+https://auth.geeksforgeeks.org/user/chaudhary_19/articles
 # Creational Design Patterns
 <b>Singleton Design Pattern</b>
 ```
